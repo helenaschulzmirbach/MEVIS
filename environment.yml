@@ -1,0 +1,17 @@
+name: mevis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - xgboost=2.0.3
+  - scikit-optimize=0.10.2
+  - matplotlib
+  - seaborn
+  - openpyxl
+  - ipykernel
+  - jupyterlab
